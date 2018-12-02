@@ -1,0 +1,76 @@
+Index (Main Page)
+	Profile
+		Skills
+	News/Blog
+    Timeline
+        The University of Auckland
+        Hamilton Boys' High School
+        Virtualight
+        Low Impact
+	Personal Projects
+	Contact
+
+Extra:
+	Downloads
+		(CV Versions)
+	CSS Designs
+
+PAGE CONTENTS!!
+Index: 
+    Main Page - Navigation
+    Links:
+		Facebook
+		Instagram
+		LinkedIn
+		GitHub
+		BitBucket
+		GitLab
+Profile:
+    Overview
+    Personal statement
+    Extra curricular involvements
+    (Awards and Achievements)
+Skills:
+    Technical skills list (Mechanical, Electrical, Software): Quantitative measures
+    Interpersonal skills list
+News/Blog:
+    ???
+Timeline:
+    Education (Left side/Top side) - brief details (qualification + start + end dates)
+    Work Experience (Right side/Bottom side) - brief details (role/responsibilities + start + end dates)
+The University of Auckland:
+    Description
+    Bachelor of Engineering (Mechatronics)
+        Description
+        Courses
+        Projects
+        Skills
+    Master of Engineering Studies (Software)
+        Description
+        Courses
+        Projects
+        Skills
+    Redirect
+Hamilton Boys' High School:
+    Description
+    NCEA levels and courses
+    CIE courses
+    Awards
+    Redirect
+Virtualight:
+    Description
+    Roles/Responsibilites
+    Experience
+    Redirect
+Low Impact:
+    Description
+    Roles/Responsibilites
+    Experience
+    Redirect
+Personal Projects:
+    Web Development
+    App Development
+Contact:
+    Phone
+    Email
+    LinkedIn
