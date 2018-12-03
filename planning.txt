@@ -1,0 +1,12 @@
+Purpose:
+    1. An online portfolio
+        Details to employers
+        Details to clients
+    2. Show off web development skills
+        HTML
+        CSS
+        JS
+        PHP(?)
+Target Audience:
+    1. Employers
+    2. General public who want to know more about me
