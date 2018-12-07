@@ -1,0 +1,106 @@
+<video>video
+<track>time-based data source to parent parent media content
+<time>datetime
+<tfoot>summary contents of a table's columns
+<tbody>direct descendent of a <table> comprising the body of the table
+    <summary>
+<source>child of <picture>, <audio>, or <video> element and identifies the url of one or more media resources
+<section>groupoing of related elements
+    <ruby>ruby stuff
+    <rt>ruby stuff
+    <rp>ruby stuff
+<q>quoted text
+<progress>progress bar
+<output>result of calculation (actual calculation is done through JS)
+<optgroup>grouping of <option> elements within a parent <select>
+<object>embeds an object in an HTML document
+<nav>navigation links
+<meter>meters (not for progress)
+<mark>highlight text
+<main>main element of the page that is not a duplicate from other pages
+<header>page header
+<footer>page footer
+<figure>image table or chart
+<figcaption>child of <figure> adds a caption to figure
+<dialog>dialog box
+<details>pairs <summary> with related details (view/hide option)
+<datalist>autocomplete suggestions
+<canvas>rectangular pane of arbitrary size used for drawing graphics, manipulating photos, creating animations with JS
+<bdo>right-to-left text
+<bdi>bi-directional for when required
+<audio>audio
+<aside>content related to primary content but not contributory
+<article>good choice to contain entire blog posts, new articles, and similar content
+<abbr>abbreviation or acronym
+<sup>superscripts
+<del>identify text that has been deleted but retained for history
+<textarea>text input area of unlimited length
+<th>table cells that contain column header values rather than table data
+<title>title of HTML document displayed in browser window
+<tr>groups together <th> or <td> values into a single row of table headings or data values
+<u>display of text in unarticulated but stylistically distinct
+<ul>unordered list
+<var>identify a variable in a mathematical equation or computer program
+<wbr>word break opportunity
+<input>form fields
+<kbd>identify text that represents keyboard input
+<label>associate a text label with a form <input>
+<legend>defines a caption for the <fieldset> element
+<li>list item
+<link>define relationship between an HTML document and an external resource
+<map>used in conjunction with <area>
+    <menu>unavailable at the moment
+<meta>inside <head> machine readable content
+<nobr>identifies text that should not be allowed to break into multiple lines which can force users to scroll hrizontally to view the content
+<ol>ordered list of <li> elements
+<option>elements of a dropdown menu <select>
+<p>blocks of paragraph text
+<param>deines parameters for plugins embedded with an <object> element
+<pre>preserves indenting, whitespace, newlines in text bodies
+<s>like <del> but means inaccurate rather than removal
+<samp>sample output of computer program
+<script>JS JQuery section
+<select>drop down list of <option> elements
+<small>text to display one size smaller than surrounding text
+<span>inline equivalent of <div>
+<strong>greater importance than surrounding text
+<style>add CSS style rules
+<sub>characters rendered in subscript
+<table>table
+<thead>one or more rows of a table that contains column labels
+<td>single data cell in an HTML <table>, children of <tr>, group of <td> forms a single table row
+<!DOCTYPE ...>
+<a>hyperlink
+<address>identifies contact information relevant to current site, page, document, section, or article
+<area>child of <map> defines a clickable region of an image map
+<b>bold emphasis on text
+<base>inside the <head> the relative start of all urls
+<blockquote>block of text as a direct quotation
+<body>entire content of the webpage
+<br>text break
+<button>HTML button
+<caption>caption to an HTML table
+<cite>identifies the source of a quotation or creative work
+<code>define enclosed text as computer code
+<col>child element of a parent colgroup
+<colgroup>parent group for one or more <col> elements
+
+<ins>indicated newly inserted text
+<dfn>defining instance of a term
+<div>an arbitrary block of content
+
+<dl>description list
+<dt>term in description list
+<dd>definition description for <dt>
+
+<em>text requiring emphasis over surrounding text
+<embed>embedded panel for 3rd party applications
+    <fieldset>grouping of related fields in an HTML form
+<form>parent container for forms - does not actually create fields, use <input> <textarea>
+<h1><h2><h3><h4><h5><h6>headings
+<head>information used by browsers but not displayed to visitors
+<hr>thematic break between paragraph level elements
+<html>container for all HTML
+<i>italics
+    <iframe>embeds an independent HTML document into the current document
+<img>image
