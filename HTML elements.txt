@@ -1,0 +1,37 @@
+_THE ROOT ELEMENT
+html
+
+_METADATA
+head title base link meta style
+
+_SECTIONS
+body article section nav aside h1 - h6 header 
+footer address
+
+_GROUPING
+p pre blockquote ol ul li dl dt dd figure 
+figcaption div main hr
+
+_TEXT
+a em strong cite q dfn abbr data time code var 
+samp kbd mark ruby rb rt rp rtc bdi bdo span br 
+wbr small i b u s sub sup
+
+_EDITS
+ins del
+
+_EMBEDDED CONTENT
+img embed object param video audio source track 
+map area iframe
+
+_TABLES
+table tr td th caption tbody thead tfoot 
+colgroup col
+
+_FORMS
+form input textarea select option optgroup 
+datalist label fieldset legend button output 
+progress meter keygen
+
+_SCRIPTING
+script noscript template canvas
