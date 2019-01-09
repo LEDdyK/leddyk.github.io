@@ -1,37 +1,37 @@
-_THE ROOT ELEMENT
+_THE ROOT ELEMENT_______________________________
 html
 
-_METADATA
+_METADATA_______________________________________
 head title base link meta style
 
-_SECTIONS
-body article section nav aside h1 - h6 header 
-footer address
+_SECTIONS_______________________________________
+body article section nav aside h# header footer 
+address
 
-_GROUPING
+_GROUPING_______________________________________
 p pre blockquote ol ul li dl dt dd figure 
 figcaption div main hr
 
-_TEXT
+_TEXT___________________________________________
 a em strong cite q dfn abbr data time code var 
 samp kbd mark ruby rb rt rp rtc bdi bdo span br 
 wbr small i b u s sub sup
 
-_EDITS
+_EDITS__________________________________________
 ins del
 
-_EMBEDDED CONTENT
+_EMBEDDED CONTENT_______________________________
 img embed object param video audio source track 
 map area iframe
 
-_TABLES
+_TABLES_________________________________________
 table tr td th caption tbody thead tfoot 
 colgroup col
 
-_FORMS
+_FORMS__________________________________________
 form input textarea select option optgroup 
 datalist label fieldset legend button output 
 progress meter keygen
 
-_SCRIPTING
+_SCRIPTING______________________________________
 script noscript template canvas
